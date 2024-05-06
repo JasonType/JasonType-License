@@ -1,2 +1,1 @@
-# JasonType-License-JTL-
-My own license
+# JTL (JasonType License) Version 1.0
